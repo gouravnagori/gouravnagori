@@ -102,7 +102,7 @@
 
 ```
 ✅  Fully Responsive Design     ✅  REST API Integration
-✅  Clean Modern UI              ✅  Deployed on Vercel
+✅  Clean Modern UI             ✅  Deployed on Vercel
 ```
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00ff41?style=for-the-badge&logoColor=0d1117)](https://opti-meal.vercel.app/)
