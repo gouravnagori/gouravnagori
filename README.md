@@ -137,12 +137,12 @@
 
 ```json
 {
-  "passion"     : [ "Startups 🚀", "Hackathons ⚔️", "Real-world Products 🛠️" ],
-  "learning"    : "Every single day — no days off",
-  "goal"        : "Build impactful products & grow as a developer",
-  "leadership"  : "Led teams, owned projects, delivered results",
-  "available"   : "Internships & Entry-Level Roles ✅",
-  "motto"       : "Code it. Ship it. Improve it."
+  "passion"   : [ "Startups 🚀", "Hackathons ⚔️", "Real-world Products 🛠️" ],
+  "learning"  : "Every single day — no days off",
+  "goal"      : "Build impactful products & grow as a developer",
+  "leadership": "Led teams, owned projects, delivered results",
+  "available" : "Internships & Entry-Level Roles ✅",
+  "motto"     : "Code it. Ship it. Improve it."
 }
 ```
 
