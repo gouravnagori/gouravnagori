@@ -124,31 +124,18 @@
 
 <br/><br/>
 
-<!-- Snake contribution graph — makes your contributions look like a snake eating them! -->
-<img src="https://raw.githubusercontent.com/gouravnagori/gouravnagori/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
 
 </div>
 
 ---
 
-## 🧩 `What Drives Me`
+
 
 <div align="center">
 
-```json
-{
-  "passion"   : [ "Startups 🚀", "Hackathons ⚔️", "Real-world Products 🛠️" ],
-  "learning"  : "Every single day — no days off",
-  "goal"      : "Build impactful products & grow as a developer",
-  "leadership": "Led teams, owned projects, delivered results",
-  "available" : "Internships & Entry-Level Roles ✅",
-  "motto"     : "Code it. Ship it. Improve it."
-}
-```
+`
 
-</div>
-
----
 
 ## 📡 `Connect With Me`
 
@@ -172,17 +159,5 @@
 
 <br/><br/>
 
-💬 **Open to collaborating on interesting projects? Let's connect!**
 
-</div>
 
----
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=0d1117&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-⭐ **Star my repos if you find them useful — it keeps me pushing 140+ commits a year!** ⭐
-
-</div>
