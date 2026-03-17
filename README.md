@@ -90,7 +90,7 @@
 
 | 🔴 Project | 📝 Description | 🛠️ Stack | 🔗 Links |
 |---|---|---|---|
-| **Opti-Meal** | Smart meal planning web app with clean UI & API integration | `HTML` `CSS` `JS` `API` | [🌐 Live](https://opti-meal.vercel.app/) \| [💻 Code](https://github.com/gouravnagori) |
+| **OptiMeal** | Smart Mess & Hostel Food Management System | `HTML` `CSS` `JS` `API` | [🌐 Live](https://opti-meal.vercel.app/) \| [💻 Code](https://github.com/gouravnagori) |
 | **Responsive Website** | A fully responsive website built from scratch with modern UI | `HTML` `CSS` `JavaScript` | [💻 Code](https://github.com/gouravnagori) |
 
 </div>
