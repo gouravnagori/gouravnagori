@@ -113,9 +113,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gouravnagori&show_icons=true&bg_color=0d1117&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravnagori&layout=compact&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=ffffff&langs_count=8" height="180"/>
+
 
 <br/><br/>
 
