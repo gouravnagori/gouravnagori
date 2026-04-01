@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=Gourav%20Nagori&fontSize=60&fontColor=0d1117&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descColor=0d1117&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🚀+Turning+ideas+into+real+products;💻+Web+Dev+%7C+C%2B%2B+%7C+Problem+Solver;🔥+140%2B+Commits+in+2025+and+still+going;🤝+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🚀+Turning+ideas+into+real+products;💻+Web+Dev+%7C+C%2B%2B+%7C+Problem+Solver;🔥+160+%2B+Commits+in+2025+and+still+going;🤝+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
