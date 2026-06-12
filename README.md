@@ -1,21 +1,22 @@
-<h1 align="center">Hi, I'm Gourav Nagori 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>CS Student · AI/ML Enthusiast · Builder</b><br/>
-  Jaipur, India 🇮🇳 &nbsp;|&nbsp; 9.0 SGPA &nbsp;|&nbsp; 9.8 in 3rd Semester
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Hi%2C%20I'm%20Gourav%20Nagori%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20·%20AI%2FML%20Enthusiast%20·%20Builder&descAlignY=58&descColor=ddddff&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/gouravnagori">
-    <img src="https://komarev.com/ghpvc/?username=gouravnagori&style=flat-square&color=6C63FF&label=profile+views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/gouravnagori?tab=followers">
-    <img src="https://img.shields.io/github/followers/gouravnagori?label=followers&style=flat-square&color=6C63FF" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/open%20to-internships-6C63FF?style=flat-square" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+real+AI+products+that+actually+work;Python+%7C+Machine+Learning+%7C+Databases;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://github.com/gouravnagori">
+  <img src="https://komarev.com/ghpvc/?username=gouravnagori&style=flat-square&color=6C63FF&label=profile+views" />
+</a>
+&nbsp;
+<a href="https://github.com/gouravnagori?tab=followers">
+  <img src="https://img.shields.io/github/followers/gouravnagori?label=followers&style=flat-square&color=6C63FF" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/open%20to-internships-6C63FF?style=flat-square" />
+
+</div>
 
 ---
 
@@ -95,15 +96,6 @@ gourav = {
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gouravnagori)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gouravnagori&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF" width="480" />
-</p>
-
----
-
 ### 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gourav-nagori1)
