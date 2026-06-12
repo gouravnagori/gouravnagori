@@ -1,157 +1,117 @@
-<!-- HEADER BANNER -->
-<div align="center">
+<h1 align="center">Hi, I'm Gourav Nagori 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=Gourav%20Nagori&fontSize=60&fontColor=0d1117&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descColor=0d1117&animation=fadeIn" width="100%"/>
+<p align="center">
+  <b>CS Student · AI/ML Enthusiast · Builder</b><br/>
+  Jaipur, India 🇮🇳 &nbsp;|&nbsp; 9.0 SGPA &nbsp;|&nbsp; 9.8 in 3rd Semester
+</p>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🚀+Turning+ideas+into+real+products;💻+Web+Dev+%7C+AI/ML+%7C+Problem+Solver;🔥+200+%2B+Commits+in+2025+and+still+going;🤝+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- PROFILE VIEWS — shows how many people visited your profile -->
-<a href="https://github.com/gouravnagori">
-  <img src="https://komarev.com/ghpvc/?username=gouravnagori&style=for-the-badge&color=00ff41&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
-<a href="https://github.com/gouravnagori?tab=followers">
-  <img src="https://img.shields.io/github/followers/gouravnagori?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Followers"/>
-</a>
-<a href="https://github.com/gouravnagori?tab=stars">
-  <img src="https://img.shields.io/github/stars/gouravnagori?label=TOTAL+STARS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Stars"/>
-</a>
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://github.com/gouravnagori">
+    <img src="https://komarev.com/ghpvc/?username=gouravnagori&style=flat-square&color=6C63FF&label=profile+views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/gouravnagori?tab=followers">
+    <img src="https://img.shields.io/github/followers/gouravnagori?label=followers&style=flat-square&color=6C63FF" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/open%20to-internships-6C63FF?style=flat-square" />
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`whoami`
+### 👋 About Me
 
-
-```bash
-┌──(gourav㉿github)-[~]
-└─$ cat about_me.txt
+```python
+gourav = {
+    "name":     "Gourav Nagori",
+    "role":     "CS Student & Builder",
+    "email":    "gouravnagori.10@gmail.com",
+    "sgpa":     "9.0 overall  |  9.8 in 3rd Semester",
+    "focus":    ["Python", "AI/ML", "Databases", "Web Dev"],
+    "status":   "Open to Internships & Entry-Level Roles",
+    "mantra":   "Build things that actually solve problems."
+}
 ```
 
-```yaml
-👤  Name       : Gourav Nagori
-🎓  Role       : CS Student & Real-World Builder
-📍  Location   : Jaipur,India 🇮🇳
-📧  Email      : gouravnagori.10@gmail.com
-📱  Phone      : +91 9462701401
-🔥  Commits    : 140+ in 2025 (private + public)
-🎯  Status     : Open to Internships & Entry-Level Roles
-⚡  Strength   : Leadership + Clean UI + Never stops learning
-```
+---
 
-<br/>
+### 🛠️ Tech Stack
 
-> 🧠 *"I don't just learn to code — I build things that actually work in the real world."*
+**Languages**
 
-<br clear="right"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**AI / ML**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Concepts**
+
+![OOP](https://img.shields.io/badge/OOP-6C63FF?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-6C63FF?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square)
 
 ---
 
-## ⚡ `Tech Arsenal`
+### 🚀 Projects
 
-<div align="center">
+#### 🧠 EduShield AI — *Dropout Prevention System*
+> A full-stack AI platform that detects silent student disengagement in schools — built for the **Wadhwani AI Hackathon**. Uses ML risk scoring, multilingual voice observations (Hindi/English), hospital-style triage, and explainable AI to help teachers intervene before students drop out.
 
-### 🌐 Frontend Languages
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+`Python` `FastAPI` `Next.js` `Scikit-learn` `PostgreSQL` `Redis` `OpenAI Whisper`
 
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41" />
-
-### 🛠️ Tools & Platforms
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-
-### 🧠 Concepts & Skills
-<img src="https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&logo=buffer&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Data_Structures-0d1117?style=for-the-badge&logo=thealgorithms&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Responsive_Design-0d1117?style=for-the-badge&logo=css3&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/Leadership-0d1117?style=for-the-badge&logo=acm&logoColor=00ff41" />
-
-</div>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=flat-square&logo=render&logoColor=white)](https://edushieldai.onrender.com/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GovindJangid75/Edushield-AI)
 
 ---
 
-## 🚀 `Projects Showcase`
+#### 🍽️ OptiMeal — *Smart Mess & Hostel Food Manager*
+> A real-world web app to plan and manage hostel/mess meals with live API integration, clean UI, and full mobile responsiveness.
 
-<div align="center">
+`HTML` `CSS` `JavaScript` `REST API` `Vercel`
 
-| 🔴 Project | 📝 Description | 🛠️ Stack | 🔗 Links |
-|---|---|---|---|
-| **OptiMeal** | Smart Mess & Hostel Food Management System | `HTML` `CSS` `JS` `API` | [🌐 Live](https://opti-meal.vercel.app/) \| [💻 Code](https://github.com/gouravnagori) |
-| **Responsive Website** | A fully responsive website built from scratch with modern UI | `HTML` `CSS` `JavaScript` | [💻 Code](https://github.com/gouravnagori) |
-
-</div>
-
-<br/>
-
-### 🔴 Opti-Meal — Smart Meal Planner
-> *Plan your meals smartly. A real-world web app with live API, responsive design, and clean modern UI.*
-
-```
-✅  Fully Responsive Design     ✅  REST API Integration
-✅  Clean Modern UI             ✅  Deployed on Vercel
-```
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00ff41?style=for-the-badge&logoColor=0d1117)](https://opti-meal.vercel.app/)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/gouravnagori)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://opti-meal.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gouravnagori)
 
 ---
 
-## 📊 `GitHub Stats`
+### 📊 GitHub Stats
 
-<div align="center">
-
-
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=gouravnagori&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=00ff41&dates=aaaaaa&stroke=00ff41" width="600"/>
-
-<br/><br/>
-
-
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gouravnagori&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF" width="480" />
+</p>
 
 ---
 
+### 📬 Connect
 
-
-<div align="center">
-
-## 📡 `Connect With Me`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/gourav-nagori1">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=gourav--nagori1" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gourav-nagori1)
 &nbsp;
-<a href="mailto:gouravnagori.10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=gouravnagori.10" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gouravnagori.10@gmail.com)
 &nbsp;
-<a href="https://github.com/gouravnagori">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&label=gouravnagori" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gouravnagori)
 &nbsp;
-<a href="https://opti-meal.vercel.app/">
-  <img src="https://img.shields.io/badge/Opti--Meal-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41&label=Live+Project" />
-</a>
-
-<br/><br/>
-
-
-
+[![OptiMeal](https://img.shields.io/badge/OptiMeal-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://opti-meal.vercel.app/)
+&nbsp;
+[![EduShield AI](https://img.shields.io/badge/EduShield%20AI-009688?style=flat-square&logo=render&logoColor=white)](https://edushieldai.onrender.com/)
