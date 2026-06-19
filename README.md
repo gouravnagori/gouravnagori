@@ -28,7 +28,7 @@ gourav = {
     "role":     "CS Student & Builder",
     "email":    "gouravnagori.10@gmail.com",
     "sgpa":     "9.0 overall  |  9.8 in 3rd Semester",
-    "focus":    ["Python", "AI/ML", "Databases", "Web Dev"],
+    "focus":    ["Python", "AI/ML", "Databases"],
     "status":   "Open to Internships & Entry-Level Roles",
     "mantra":   "Build things that actually solve problems."
 }
