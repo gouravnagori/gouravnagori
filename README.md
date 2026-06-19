@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/gouravnagori">
-  <img src="https://komarev.com/ghpvc/?username=gouravnagori&style=flat-square&color=6C63FF&label=profile+views" />
+ <img src="https://img.shields.io/badge/commits%20-300-6C63FF?style=flat-square" />
 </a>
 &nbsp;
 <a href="https://github.com/gouravnagori?tab=followers">
