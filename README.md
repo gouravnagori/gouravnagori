@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/gouravnagori">
- <img src="https://img.shields.io/badge/commits%20-300-6C63FF?style=flat-square" />
+ <img src="https://img.shields.io/badge/2026 commits%20-300+-6C63FF?style=flat-square" />
 </a>
 &nbsp;
 <a href="https://github.com/gouravnagori?tab=followers">
